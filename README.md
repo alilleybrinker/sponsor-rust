@@ -26,6 +26,7 @@ of someone to add, feel free to open a PR.
 * [Diana (DianaNites)](https://github.com/sponsors/DianaNites)
 * [Carter Anderson (cart)](https://github.com/sponsors/cart)
 * [Lokathor (Lokathor)](https://github.com/sponsors/Lokathor)
+* [Yuki Okushi (JohnTitor)](https://github.com/sponsors/JohnTitor)
 
 ## Organizations
 
