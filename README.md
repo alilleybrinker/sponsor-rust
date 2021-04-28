@@ -5,29 +5,33 @@ of someone to add, feel free to open a PR.
 
 ## People
 
-* [XAMPPRocky](https://github.com/sponsors/XAMPPRocky)
-* [Nikolai Vazquez (nvzqz)](https://github.com/sponsors/nvzqz)
-* [Joshua Nelson (jyn514)](https://github.com/sponsors/jyn514)
-* [Jane Lusby (yaahc)](https://github.com/sponsors/yaahc)
-* [Mara Bos (m-ou-se)](https://github.com/sponsors/m-ou-se)
-* [lcnr](https://github.com/sponsors/lcnr)
-* [Tony Arcieri (tarcieri)](https://github.com/sponsors/tarcieri)
-* [Yoshua Wuyts (yoshuawuyts)](https://github.com/sponsors/yoshuawuyts)
-* [François (mockersf)](https://github.com/sponsors/mockersf)
-* [David Tolnay (dtolnay)](https://github.com/sponsors/dtolnay)
-* [Daniel (xd009642)](https://github.com/sponsors/xd009642)
-* [David Peter (sharkdp)](https://github.com/sponsors/sharkdp)
-* [Taiki Endo (taiki-e)](https://github.com/sponsors/taiki-e)
-* [Josh Triplett (joshtriplett)](https://github.com/sponsors/joshtriplett)
-* [Jamie Brandon (jamii)](https://github.com/sponsors/jamii)
-* [varkor](https://github.com/sponsors/varkor)
-* [Loïc Lecrenier (loiclec)](https://github.com/sponsors/loiclec)
-* [Tyler Neely (spacejam)](https://github.com/sponsors/spacejam)
-* [Diana (DianaNites)](https://github.com/sponsors/DianaNites)
-* [Carter Anderson (cart)](https://github.com/sponsors/cart)
-* [Lokathor (Lokathor)](https://github.com/sponsors/Lokathor)
-* [Yuki Okushi (JohnTitor)](https://github.com/sponsors/JohnTitor)
+| Handle (Name) |
+|:-|
+| [XAMPPRocky](https://github.com/sponsors/XAMPPRocky) |
+| [nvzqz (Nikolai Vazquez)](https://github.com/sponsors/nvzqz) |
+| [jyn514 (Joshua Nelson)](https://github.com/sponsors/jyn514) |
+| [yaahc (Jane Lusby)](https://github.com/sponsors/yaahc) |
+| [m-ou-se (Mara Bos)](https://github.com/sponsors/m-ou-se) |
+| [lcnr](https://github.com/sponsors/lcnr) |
+| [tarcieri (Tony Arcieri)](https://github.com/sponsors/tarcieri) |
+| [yoshuawuyts (Yoshua Wuyts)](https://github.com/sponsors/yoshuawuyts) |
+| [mockersf (François)](https://github.com/sponsors/mockersf) |
+| [dtolnay (David Tolnay)](https://github.com/sponsors/dtolnay) |
+| [xd009642 (Daniel)](https://github.com/sponsors/xd009642) |
+| [sharkdp (David Peter)](https://github.com/sponsors/sharkdp) |
+| [taiki-e (Taiki Endo)](https://github.com/sponsors/taiki-e) |
+| [joshtriplett (Josh Triplett)](https://github.com/sponsors/joshtriplett) |
+| [jamii (Jamie Brandon)](https://github.com/sponsors/jamii) |
+| [varkor](https://github.com/sponsors/varkor) |
+| [loiclec (Loïc Lecrenier)](https://github.com/sponsors/loiclec) |
+| [spacejam (Tyler Neely)](https://github.com/sponsors/spacejam) |
+| [DianaNites (Diana)](https://github.com/sponsors/DianaNites) |
+| [cart (Carter Anderson)](https://github.com/sponsors/cart) |
+| [Lokathor](https://github.com/sponsors/Lokathor) |
+| [JohnTitor (Yuki Okushi)](https://github.com/sponsors/JohnTitor) |
 
 ## Organizations
 
-* [Tokio](https://github.com/sponsors/tokio-rs)  - Alice Rhyl (Darksonn) , Eliza Weisman (hawkw)
+| Organization |
+|:-|
+| [Tokio](https://github.com/sponsors/tokio-rs) - Darksonn (Alice Rhyl), hawkw (Eliza Weisman) |
